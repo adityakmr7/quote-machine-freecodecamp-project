@@ -1,0 +1,18 @@
+#quote-box {
+  background-color: white;
+  width: 50%;
+  margin: 0 auto;
+  position: absolute;
+  left: 25%;
+  top: 25%;
+  border: 5px;
+  border-radius: 5px;
+}
+
+.box-container {
+  padding-right: 40px;
+  padding-left: 40px;
+}
+#text {
+  padding-top: 50px;
+}
